@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7466f1b5-a53a-4252-b80f-31c4aca92af1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1WdtwMvmZJw7d11QnpbOg7Cni9d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/job" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yangtao\Desktop\笔记\crontab\job" />
+      <recent name="C:\Users\yangtao\Desktop\笔记\crontab" />
+      <recent name="C:\Users\yangtao\Desktop\笔记\crontab\worker1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yangtao\Desktop\笔记\crontab\job" />
+      <recent name="C:\Users\yangtao\Desktop\笔记\crontab\utils" />
+      <recent name="C:\Users\yangtao\Desktop\笔记\crontab\worker1" />
+      <recent name="C:\Users\yangtao\Desktop\笔记\crontab" />
+      <recent name="C:\Users\yangtao\Desktop\笔记\crontab\worker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build jobManger.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crontab" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job/jobManger.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crontab" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build scheduler.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crontab" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/worker/scheduler.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build scheduler.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crontab" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/worker/scheduler.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build scheduler.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crontab" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/worker/scheduler.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build scheduler.go (2)" />
+        <item itemvalue="Go Build.go build scheduler.go (1)" />
+        <item itemvalue="Go Build.go build scheduler.go" />
+        <item itemvalue="Go Build.go build jobManger.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583340496209">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="473" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1583340496209" />
+    <state x="170" y="214" width="941" height="345" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1583337516200">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="170" y="214" width="941" height="345" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1280.720@0.0.1280.720" timestamp="1583337516200" />
+    <state x="0" y="0" key="#go_build_jobManger.go" timestamp="1583317788319">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" key="#go_build_jobManger.go/0.0.1280.720@0.0.1280.720" timestamp="1583317788319" />
+    <state x="721" y="0" key="#go_build_scheduler.go" timestamp="1583317851554">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="721" y="0" key="#go_build_scheduler.go/0.0.1280.720@0.0.1280.720" timestamp="1583317851554" />
+    <state x="721" y="0" key="#go_build_scheduler.go_(1)" timestamp="1583326089485">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="721" y="0" key="#go_build_scheduler.go_(1)/0.0.1280.720@0.0.1280.720" timestamp="1583326089485" />
+    <state x="0" y="0" key="#go_build_scheduler.go_(2)" timestamp="1583331508021">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" key="#go_build_scheduler.go_(2)/0.0.1280.720@0.0.1280.720" timestamp="1583331508021" />
+    <state width="1222" height="172" key="GridCell.Tab.0.bottom" timestamp="1583392498089">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1222" height="172" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1583392498089" />
+    <state width="1222" height="172" key="GridCell.Tab.0.center" timestamp="1583392498089">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1222" height="172" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1583392498089" />
+    <state width="1222" height="172" key="GridCell.Tab.0.left" timestamp="1583392498089">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1222" height="172" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1583392498089" />
+    <state width="1222" height="172" key="GridCell.Tab.0.right" timestamp="1583392498089">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1222" height="172" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1583392498089" />
+    <state width="1222" height="197" key="GridCell.Tab.1.bottom" timestamp="1583392497911">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1222" height="197" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1583392497911" />
+    <state width="1222" height="197" key="GridCell.Tab.1.center" timestamp="1583392497911">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1222" height="197" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1583392497911" />
+    <state width="1222" height="197" key="GridCell.Tab.1.left" timestamp="1583392497911">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1222" height="197" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1583392497911" />
+    <state width="1222" height="197" key="GridCell.Tab.1.right" timestamp="1583392497911">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1222" height="197" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1583392497911" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1583377558071">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1583377558071" />
+  </component>
+</project>
